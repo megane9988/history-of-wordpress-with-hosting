@@ -8,8 +8,8 @@
 	--wp-light-blue: #00A0D2;
 	--wp-orange: #F56E28;
 	--wp-gray: #82878C;
-	--hosting-green: #2d4c2f;
-	--sakura-pink: #fca0c3;
+	--hosting-green: #504e1d;
+	--sakura-pink: #f65275;
 }
 
 body {
@@ -201,10 +201,6 @@ article.hosting .badge {
 }
 article.sakura .panel {
 	background-color: var(--sakura-pink);
-	color: #000 !important;
-	a{
-	color: #000 !important;
-	}
 }
 article.sakura .badge {
 	color: var(--sakura-pink) !important;

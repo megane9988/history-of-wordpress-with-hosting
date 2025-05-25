@@ -1,11 +1,7 @@
 年,月,カテゴリー,出来事,URL
 1996,12,さくらインターネット,さくらインターネット創業 共用レンタルサーバーサービス「さくらウェブ」の提供を開始,https://www.sakura.ad.jp/corporate/corp/history/
 1999,8,さくらインターネット,大阪にデータセンターを開設、ハウジングサービスも開始,
-2000,11,ホスティング,Amazon.co.jp サイト開設,
-2000,8,ホスティング,Google 日本語サービス開始,https://internet.watch.impress.co.jp/
 2000,9,ホスティング,e-Japan 構想を森喜朗首相が所信表明演説で提示,https://ja.wikipedia.org/wiki/e-Japan%E6%88%A6%E7%95%A5
-2000,11,ホスティング,IT基本法（高度情報通信ネットワーク社会形成基本法）成立,
-2001,4,ホスティング,Salesforce、日本でサービス提供開始（日本法人は2000年設立）,
 2001,10,周辺技術,Movable Type 1.0がリリース,
 2003,5,WordPress,WordPressが誕生,https://ma.tt/2003/01/the-blogging-software-dilemma/
 2003,11,WordPress,WordPress ME（日本語版EUC-JP）が誕生,https://wptavern.com/community-translation-and-wapuu-how-japan-is-shaping-wordpress-history
@@ -62,7 +58,6 @@
 2018,12,WordPress,ブロックエディターがリリースされ、以前のエディタは「クラシック・エディタ」に。,https://ja.wordpress.org/2018/12/07/wordpress-5-0-bebo/
 2019,2,WordPress,サイトヘルス機能の導入,
 2019,3,周辺技術,無料レンタルサーバー、ジオシティーズがサービスを終了,
-2019,5,ホスティング,Google Cloud Platform 大阪リージョン開設,
 2019,5,世の中,グレタ・トゥーンベリがスピーチ「変化をもたらすために未熟すぎるなんてことはない」で世界的に有名に。環境問題に一石を投じる。,
 2020,3,世の中,新型コロナウィルスの流行,
 2020,6,WordPress,占部紘がGutenbergチームのコミッターに就任。WordPressのコアに取り込まれるコードのコミッターは日本初？,
