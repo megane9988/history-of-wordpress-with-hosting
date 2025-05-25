@@ -1,4 +1,9 @@
 年,月,カテゴリー,出来事,URL
+2000,11,ホスティング,Amazon.co.jp サイト開設,
+2000,8,ホスティング,Google 日本語サービス開始,https://internet.watch.impress.co.jp/
+2000,9,ホスティング,e-Japan 構想を森喜朗首相が所信表明演説で提示,https://ja.wikipedia.org/wiki/e-Japan%E6%88%A6%E7%95%A5
+2000,11,ホスティング,IT基本法（高度情報通信ネットワーク社会形成基本法）成立,
+2001,4,ホスティング,Salesforce、日本でサービス提供開始（日本法人は2000年設立）,
 2001,10,周辺技術,Movable Type 1.0がリリース,
 2003,5,WordPress,WordPressが誕生,https://ma.tt/2003/01/the-blogging-software-dilemma/
 2003,11,WordPress,WordPress ME（日本語版EUC-JP）が誕生,https://wptavern.com/community-translation-and-wapuu-how-japan-is-shaping-wordpress-history
@@ -21,6 +26,7 @@
 2010,6,WordPress,WordPress 3.0でマルチサイト（WordPress MU）の統合、カスタム三兄弟、twenty-nシリーズの初リリース、モバイルアプリ,
 2011,1,WordPress,アドミンバーが誕生,
 2011,1,周辺技術,Movable Type の開発元Six Apartが日本法人の完全子会社に,https://www.sixapart.jp/news/2011/01/21-1700.html
+2011,3,ホスティング,AWS 東京リージョン開設（日本語サポート・円建て決済開始）,
 2011,3,世の中,東日本大震災発生、Twitterの存在感が増す,
 2011,8,WordPress,Kaneuchi Kazukoデザインのわぷーが正式名称になる,https://ja.wordpress.org/2011/08/10/wordpress-japanese-character-name/
 2012,2,周辺技術,Softbank 4Gがサービス開始、LTE（4G）が普及し始める。,
@@ -28,12 +34,16 @@
 2012,9,WordPress,"WordCamp Tokyo 2012, PHP Conferenceと共同開催で1700人以上が来場",https://tokyo.wordcamp.org/2012/
 2012,12,WordPress,画像アップローダーが刷新、現在の形にほぼ近づく,
 2013,5,周辺技術,Web Creator Box、ブログ飯、Web Design Recipes、かちびと.netなど、ブロガーが隆盛をきわめ、出版など多数行う。,
+2013,3,ホスティング,Docker 初版リリース,https://ja.wikipedia.org/wiki/Docker
 2013,10,WordPress,WordPress 3.7で、Language Packが導入される。コアの翻訳がGlotPressでできるようになった。また、マイナーリリースの自動バックグラウンド更新導入。,https://ja.wordpress.org/2013/10/25/wordpress-3-7-ja/
 2013,12,WordPress,WordPress 3.8で、現在まで続く新しい管理画面 UI に変わる。当時のプロジェクト名は MP6,
+2014,2,ホスティング,Microsoft Azure 東日本・西日本 DC 開設,
+2014,6,ホスティング,Kubernetes 公開,https://ja.wikipedia.org/wiki/Kubernetes
 2014,10,周辺技術,YouTubeがテレビCMで「好きなことで生きていく」,
 2014,11,WordPress,WordCamp San Franciscoに日本人3名が招待される。コミュニティサミットに世界中から参加。,
 2015,5,WordPress,WooThemesとWooCommerceがAutomatticに買収され、大型合併と話題に。,https://sf.wordcamp.org/2014/community-summit-overview/community-summit-attendees/
 2016,8,WordPress,翻訳がGlotPressからのダウンロード形式に変更、バンドル形式を廃止。,
+2016,11,ホスティング,Google Cloud Platform 東京リージョン開設,https://cloud.google.com/blog
 2016,11,周辺技術,DeNAがキュレーションメディアWELQで記事の盗用や不正確な医療情報を配信したことが事件となる,
 2017,4,WordPress,Gutenbergプラグイン初のリリース,
 2017,7,WordPress,宮内隆行がWP-CLIのコミッターに就任。日本人がWordPress公式プロジェクトのコードに直接介入できるようになったのはこれが初。,
@@ -45,6 +55,7 @@
 2018,12,WordPress,ブロックエディターがリリースされ、以前のエディタは「クラシック・エディタ」に。,https://ja.wordpress.org/2018/12/07/wordpress-5-0-bebo/
 2019,2,WordPress,サイトヘルス機能の導入,
 2019,3,周辺技術,無料レンタルサーバー、ジオシティーズがサービスを終了,
+2019,5,ホスティング,Google Cloud Platform 大阪リージョン開設,
 2019,5,世の中,グレタ・トゥーンベリがスピーチ「変化をもたらすために未熟すぎるなんてことはない」で世界的に有名に。環境問題に一石を投じる。,
 2020,3,世の中,新型コロナウィルスの流行,
 2020,6,WordPress,占部紘がGutenbergチームのコミッターに就任。WordPressのコアに取り込まれるコードのコミッターは日本初？,
