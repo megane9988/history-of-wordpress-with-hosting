@@ -10,6 +10,7 @@
 	--wp-gray: #82878C;
 	--hosting-green: #504e1d;
 	--sakura-pink: #f65275;
+	--ai-black: #1f2021;
 }
 
 body {
@@ -204,6 +205,13 @@ article.sakura .panel {
 }
 article.sakura .badge {
 	color: var(--sakura-pink) !important;
+}
+
+article.ai .panel {
+	background-color: var(--ai-black);
+}
+article.ai .badge {
+	color: var(--ai-black) !important;
 }
 
 .site-footer {
