@@ -1,4 +1,6 @@
 年,月,カテゴリー,出来事,URL
+1996,12,さくらインターネット,さくらインターネット創業 共用レンタルサーバーサービス「さくらウェブ」の提供を開始,https://www.sakura.ad.jp/corporate/corp/history/
+1999,8,さくらインターネット,大阪にデータセンターを開設、ハウジングサービスも開始,
 2000,11,ホスティング,Amazon.co.jp サイト開設,
 2000,8,ホスティング,Google 日本語サービス開始,https://internet.watch.impress.co.jp/
 2000,9,ホスティング,e-Japan 構想を森喜朗首相が所信表明演説で提示,https://ja.wikipedia.org/wiki/e-Japan%E6%88%A6%E7%95%A5
@@ -10,6 +12,7 @@
 2003,12,周辺技術,ココログ、メルマブログ、Seesaaブログなどの日本ブログがサービス開始、ブログブームへ,
 2004,5,周辺技術,Movable Type 3.0リリース、ライセンス形態に大きな変更があり商用利用は有料のみに,https://internet.watch.impress.co.jp/cda/news/2004/05/14/3105.html
 2005,1,周辺技術,ブログブームにのって、アフィリエイトが盛り上がり始める,https://www.itmedia.co.jp/news/articles/0501/13/news099.html
+2005,10,さくらインターネット,さくらインターネット東京証券取引所マザーズ市場への上場,https://www.sakura.ad.jp/corporate/corp/history/
 2006,6,WordPress,日本専用のWordPressプラグイン配布サイトJSeriesが公開,https://ja.osdn.net/projects/wppluginsj/
 2006,7,周辺技術,Twitterが日本でサービス開始,
 2006,8,WordPress,初WordCampがサンフランシスコで開催,https://sf.wordcamp.org/2006/
@@ -24,11 +27,13 @@
 2009,12,WordPress,WordPressがOpen Source CMS Awardsを受賞。,https://monsterspost.com/history-of-wordpess/
 2010,1,WordPress,WordPress Foundation立ち上げ,http://ma.tt/2010/09/wordpress-trademark/
 2010,6,WordPress,WordPress 3.0でマルチサイト（WordPress MU）の統合、カスタム三兄弟、twenty-nシリーズの初リリース、モバイルアプリ,
+2010,9,さくらインターネット,さくらインターネット 「さくらのVPS」の提供を開始,https://webtan.impress.co.jp/n/2010/09/01/8735
 2011,1,WordPress,アドミンバーが誕生,
 2011,1,周辺技術,Movable Type の開発元Six Apartが日本法人の完全子会社に,https://www.sixapart.jp/news/2011/01/21-1700.html
 2011,3,ホスティング,AWS 東京リージョン開設（日本語サポート・円建て決済開始）,
 2011,3,世の中,東日本大震災発生、Twitterの存在感が増す,
 2011,8,WordPress,Kaneuchi Kazukoデザインのわぷーが正式名称になる,https://ja.wordpress.org/2011/08/10/wordpress-japanese-character-name/
+2011,11,さくらインターネット,さくらインターネット 北海道石狩市に石狩データセンターを開設 「さくらのクラウド」の提供を開始,
 2012,2,周辺技術,Softbank 4Gがサービス開始、LTE（4G）が普及し始める。,
 2012,6,WordPress,テーマカスタマイザーの導入,
 2012,9,WordPress,"WordCamp Tokyo 2012, PHP Conferenceと共同開催で1700人以上が来場",https://tokyo.wordcamp.org/2012/
@@ -43,9 +48,11 @@
 2014,11,WordPress,WordCamp San Franciscoに日本人3名が招待される。コミュニティサミットに世界中から参加。,
 2015,5,WordPress,WooThemesとWooCommerceがAutomatticに買収され、大型合併と話題に。,https://sf.wordcamp.org/2014/community-summit-overview/community-summit-attendees/
 2016,8,WordPress,翻訳がGlotPressからのダウンロード形式に変更、バンドル形式を廃止。,
+2016,9,さくらインターネット,さくらインターネット 「さくらの専用サーバ 高火力シリーズ」の提供を開始,
 2016,11,ホスティング,Google Cloud Platform 東京リージョン開設,https://cloud.google.com/blog
 2016,11,周辺技術,DeNAがキュレーションメディアWELQで記事の盗用や不正確な医療情報を配信したことが事件となる,
 2017,4,WordPress,Gutenbergプラグイン初のリリース,
+2017,4,さくらインターネット,さくらインターネット IoTプラットフォーム「sakura.io」の提供開始,
 2017,7,WordPress,宮内隆行がWP-CLIのコミッターに就任。日本人がWordPress公式プロジェクトのコードに直接介入できるようになったのはこれが初。,
 2017,12,WordPress,米国ホワイトハウスのWebサイトがDrupalからWordPressに,
 2018,1,WordPress,WordPressのWebサイトに占めるシェアが30%を超える,
@@ -65,4 +72,5 @@
 2022,5,WordPress,Yoast創業者が「WordPressのシェアが減少し始めた」と報告,https://capitalp.jp/2022/05/12/wordpress-share-is-shrinking/
 2022,12,周辺技術,ChatGPTが話題に,
 2023,3,周辺技術,イーロン・マスクがTwitterを買収し、Xに変更,
+2023,6,さくらインターネット,さくらインターネット 石狩データセンターのCO2排出量ゼロを実現,
 2023,8,WordPress,亡くなったコントリビューターを偲ぶメモリアルサイトができる,https://wordpress.org/remembers/
