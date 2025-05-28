@@ -8,6 +8,9 @@
 	--wp-light-blue: #00A0D2;
 	--wp-orange: #F56E28;
 	--wp-gray: #82878C;
+	--hosting-green: #504e1d;
+	--sakura-pink: #f65275;
+	--ai-black: #1f2021;
 }
 
 body {
@@ -190,6 +193,25 @@ article.society .panel {
 }
 article.society .badge {
 	color: var(--wp-orange) !important;
+}
+article.hosting .panel {
+	background-color: var(--hosting-green);
+}
+article.hosting .badge {
+	color: var(--hosting-green) !important;
+}
+article.sakura .panel {
+	background-color: var(--sakura-pink);
+}
+article.sakura .badge {
+	color: var(--sakura-pink) !important;
+}
+
+article.ai .panel {
+	background-color: var(--ai-black);
+}
+article.ai .badge {
+	color: var(--ai-black) !important;
 }
 
 .site-footer {

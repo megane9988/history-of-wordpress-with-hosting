@@ -1,42 +1,45 @@
 年,月,カテゴリー,出来事,URL
+1996,12,さくらインターネット,さくらインターネット創業 共用レンタルサーバーサービス「さくらウェブ」の提供を開始,https://www.sakura.ad.jp/corporate/corp/history/
+1999,8,さくらインターネット,大阪にデータセンターを開設、ハウジングサービスも開始,
+2000,9,ホスティング,e-Japan 構想を森喜朗首相が所信表明演説で提示,https://ja.wikipedia.org/wiki/e-Japan%E6%88%A6%E7%95%A5
 2001,10,周辺技術,Movable Type 1.0がリリース,
 2003,5,WordPress,WordPressが誕生,https://ma.tt/2003/01/the-blogging-software-dilemma/
-2003,11,WordPress,WordPress ME（日本語版EUC-JP）が誕生,https://wptavern.com/community-translation-and-wapuu-how-japan-is-shaping-wordpress-history
 2003,12,周辺技術,ココログ、メルマブログ、Seesaaブログなどの日本ブログがサービス開始、ブログブームへ,
 2004,5,周辺技術,Movable Type 3.0リリース、ライセンス形態に大きな変更があり商用利用は有料のみに,https://internet.watch.impress.co.jp/cda/news/2004/05/14/3105.html
 2005,1,周辺技術,ブログブームにのって、アフィリエイトが盛り上がり始める,https://www.itmedia.co.jp/news/articles/0501/13/news099.html
-2006,6,WordPress,日本専用のWordPressプラグイン配布サイトJSeriesが公開,https://ja.osdn.net/projects/wppluginsj/
+2005,10,さくらインターネット,さくらインターネット東京証券取引所マザーズ市場への上場,https://www.sakura.ad.jp/corporate/corp/history/
 2006,7,周辺技術,Twitterが日本でサービス開始,
-2006,8,WordPress,初WordCampがサンフランシスコで開催,https://sf.wordcamp.org/2006/
 2007,7,周辺技術,iPhone 3Gが日本で発売,
-2008,3,WordPress,WordPress ME が終了,https://ja.wordpress.org/wordpress-ja-and-me/
 2008,5,周辺技術,Facebookが日本でサービス開始,
 2008,9,WordPress,日本初のWordCamp WordCamp Tokyo 2008が開催,https://ja.wordpress.org/2008/09/04/wordcamp-tokyo-2008/
 2008,9,世の中,リーマンショックが米国で発生。それにともない、お金のなくなった企業がWordPressに乗り換えたことがWordPress隆盛の1つ,
 2008,12,WordPress,管理画面からのインストール/アップデートの導入,
 2008,12,WordPress,管理画面がフルリストア。ウィジェット、ファイルアップローダー、パスワード強度メーターなど、現在のベースが出揃う。,https://ja.wordpress.org/2008/12/11/coltrane/
 2009,4,WordPress,三好さんがWordBenchを発案、ローカルコミュニティの草分けに。WordCamp Tokyo 2009にMatt Mallenwegが初来日。,https://ascii.jp/elem/000/000/409/409338/
-2009,12,WordPress,WordPressがOpen Source CMS Awardsを受賞。,https://monsterspost.com/history-of-wordpess/
-2010,1,WordPress,WordPress Foundation立ち上げ,http://ma.tt/2010/09/wordpress-trademark/
 2010,6,WordPress,WordPress 3.0でマルチサイト（WordPress MU）の統合、カスタム三兄弟、twenty-nシリーズの初リリース、モバイルアプリ,
-2011,1,WordPress,アドミンバーが誕生,
+2010,9,さくらインターネット,さくらインターネット 「さくらのVPS」の提供を開始,https://webtan.impress.co.jp/n/2010/09/01/8735
 2011,1,周辺技術,Movable Type の開発元Six Apartが日本法人の完全子会社に,https://www.sixapart.jp/news/2011/01/21-1700.html
+2011,3,ホスティング,AWS 東京リージョン開設（日本語サポート・円建て決済開始）,
 2011,3,世の中,東日本大震災発生、Twitterの存在感が増す,
 2011,8,WordPress,Kaneuchi Kazukoデザインのわぷーが正式名称になる,https://ja.wordpress.org/2011/08/10/wordpress-japanese-character-name/
+2011,11,さくらインターネット,さくらインターネット 北海道石狩市に石狩データセンターを開設 「さくらのクラウド」の提供を開始,
 2012,2,周辺技術,Softbank 4Gがサービス開始、LTE（4G）が普及し始める。,
 2012,6,WordPress,テーマカスタマイザーの導入,
 2012,9,WordPress,"WordCamp Tokyo 2012, PHP Conferenceと共同開催で1700人以上が来場",https://tokyo.wordcamp.org/2012/
 2012,12,WordPress,画像アップローダーが刷新、現在の形にほぼ近づく,
 2013,5,周辺技術,Web Creator Box、ブログ飯、Web Design Recipes、かちびと.netなど、ブロガーが隆盛をきわめ、出版など多数行う。,
+2013,3,ホスティング,Docker 初版リリース,https://ja.wikipedia.org/wiki/Docker
 2013,10,WordPress,WordPress 3.7で、Language Packが導入される。コアの翻訳がGlotPressでできるようになった。また、マイナーリリースの自動バックグラウンド更新導入。,https://ja.wordpress.org/2013/10/25/wordpress-3-7-ja/
 2013,12,WordPress,WordPress 3.8で、現在まで続く新しい管理画面 UI に変わる。当時のプロジェクト名は MP6,
+2014,2,ホスティング,Microsoft Azure 東日本・西日本 DC 開設,
+2014,6,ホスティング,Kubernetes 公開,https://ja.wikipedia.org/wiki/Kubernetes
 2014,10,周辺技術,YouTubeがテレビCMで「好きなことで生きていく」,
-2014,11,WordPress,WordCamp San Franciscoに日本人3名が招待される。コミュニティサミットに世界中から参加。,
 2015,5,WordPress,WooThemesとWooCommerceがAutomatticに買収され、大型合併と話題に。,https://sf.wordcamp.org/2014/community-summit-overview/community-summit-attendees/
-2016,8,WordPress,翻訳がGlotPressからのダウンロード形式に変更、バンドル形式を廃止。,
+2016,9,さくらインターネット,さくらインターネット 「さくらの専用サーバ 高火力シリーズ」の提供を開始,
+2016,11,ホスティング,Google Cloud Platform 東京リージョン開設,https://cloud.google.com/blog
 2016,11,周辺技術,DeNAがキュレーションメディアWELQで記事の盗用や不正確な医療情報を配信したことが事件となる,
 2017,4,WordPress,Gutenbergプラグイン初のリリース,
-2017,7,WordPress,宮内隆行がWP-CLIのコミッターに就任。日本人がWordPress公式プロジェクトのコードに直接介入できるようになったのはこれが初。,
+2017,4,さくらインターネット,さくらインターネット IoTプラットフォーム「sakura.io」の提供開始,
 2017,12,WordPress,米国ホワイトハウスのWebサイトがDrupalからWordPressに,
 2018,1,WordPress,WordPressのWebサイトに占めるシェアが30%を超える,
 2018,4,周辺技術,マーク・ザッカーバーグがケンブリッジ・アナリティカ事件で米上院の公聴会に出席,
@@ -49,9 +52,15 @@
 2020,3,世の中,新型コロナウィルスの流行,
 2020,6,WordPress,占部紘がGutenbergチームのコミッターに就任。WordPressのコアに取り込まれるコードのコミッターは日本初？,
 2021,2,WordPress,WordPressが40%シェアを達成,https://ja.wordpress.org/40-percent-of-web/
+2021,6,AI,GitHubはVisual Studio Code開発環境でのGitHub Copilotのテクニカルプレビューを発表,https://github.com/features/copilot
 2021,9,世の中,デジタル庁が発足,
 2022,1,WordPress,フルサイト編集を搭載したWordPress 5.9がリリース。,
 2022,5,WordPress,Yoast創業者が「WordPressのシェアが減少し始めた」と報告,https://capitalp.jp/2022/05/12/wordpress-share-is-shrinking/
+2022,11,AI,ChatGPTがリリースされ、AIチャットボットが話題に, https://openai.com/blog/chatgpt/
 2022,12,周辺技術,ChatGPTが話題に,
 2023,3,周辺技術,イーロン・マスクがTwitterを買収し、Xに変更,
+2023,6,さくらインターネット,さくらインターネット 石狩データセンターのCO2排出量ゼロを実現,
 2023,8,WordPress,亡くなったコントリビューターを偲ぶメモリアルサイトができる,https://wordpress.org/remembers/
+2024,10,AI,ChatGPTの週間利用者数が2億5千万人を突破していることを発表, https://openai.com/blog/chatgpt-2-5-billion-users/
+2025,5,AI,GitHub Copilot Coding Agentがリリースされ、AIがコードを書く時代に突入,https://github.blog/jp/2025-05-20-github-copilot-meet-the-new-coding-agent/
+2025,6,世の中,そして未来へ

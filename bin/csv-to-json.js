@@ -21,6 +21,9 @@ csv()
 							'WordPress': 'wordpress',
 							'周辺技術': 'tech',
 							'世の中': 'society',
+							'ホスティング': 'hosting',
+							'さくらインターネット': 'sakura',
+							'AI': 'ai',
 						}[item[ 'カテゴリー' ]],
 					}
 
